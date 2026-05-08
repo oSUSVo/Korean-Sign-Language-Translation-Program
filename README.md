@@ -186,7 +186,7 @@ graph TD
 
 &emsp;&emsp;**1) 프로젝트 클론**
 ```bash
-git clone <repository-url>
+git clone https://github.com/oSUSVo/Korean-Sign-Language-Translation-Program.git
 cd Korean-Sign-Language-Translation-Program-main
 ```
 
